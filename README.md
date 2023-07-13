@@ -1,4 +1,4 @@
-Certainly! Here's an example of a README.md file for the project:
+This is a Project reference about payever test QA Automation
 
 # FastAPI REST Application
 
@@ -17,13 +17,13 @@ This is a simple Python REST application built with FastAPI. It communicates wit
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your_username/your_repository.git
+   https://github.com/GabrielFonsecaNunes/test_payever_qa_automation.git
    ```
 
 2. Change to the project directory:
 
    ```shell
-   cd your_repository
+   cd test_payever_qa_automation
    ```
 
 3. Install the required packages:
